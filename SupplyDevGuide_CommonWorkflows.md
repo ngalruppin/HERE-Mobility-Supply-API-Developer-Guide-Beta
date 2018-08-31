@@ -11,12 +11,12 @@ The pages listed below describe some common workflows you can implement using th
 
 The descriptions include code samples for the REST and GRPC interfaces.
 
-- [**Dispatch callback**: Respond to a Request for Ride Offers]()
-- [**Dispatch callback**: Respond to a Passenger Request to Book a Ride]()
-- [**Dispatch callback**: Respond to a Passenger Request to Cancel a Ride]()
-- [**Dispatch callback**: Respond to a Request for a Ride's Status]()
-- [**Supplier-initiated**: Cancel a Ride]()
-- [**Supplier-initiated**: Update a Ride's Details]()
+- [**Dispatch callback**: Respond to a Request for Ride Offers](SupplyDevGuide_RequestOffers.md)
+- [**Dispatch callback**: Respond to a Passenger Request to Book a Ride](SupplyDevGuide_CreateRide.md)
+- [**Dispatch callback**: Respond to a Passenger Request to Cancel a Ride](SupplyDevGuide_DispatchCancelRide.md)
+- [**Dispatch callback**: Respond to a Request for a Ride's Status](SupplyDevGuide_GetRideStatus.md)
+- [**Supplier-initiated**: Cancel a Ride](SupplyDevGuide_SupplierCancelRide.md)
+- [**Supplier-initiated**: Update a Ride's Details](SupplyDevGuide_SupplierUpdateFunctions.md)
 
 
 
